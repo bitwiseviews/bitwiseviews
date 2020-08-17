@@ -1,6 +1,5 @@
-const socket = io('35.154.216.159')
+const socket = io('http://35.154.216.159:3000/')
 const videoGrid = document.getElementById('video-grid')
-
 const myPeer = new Peer(undefined, {
     host: '35.154.216.159',
     port: 3001
