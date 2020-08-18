@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Screen Sharing using RTCMultiConnection</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="shortcut icon" href="/demos/logo.png">
+    <link rel="stylesheet" href="/demos/stylesheet.css">
+    <script src="/demos/menu.js"></script>
+  </head>
+  <body>
+    
+    <h1>
+      Screen Sharing using RTCMultiConnection
+      <p class="no-mobile">
+	Multi-user (one-to-many) screen sharing using star topology.
+      </p>
+    </h1>
+    
+    <script>
+     var displayMediaStreamConstraints = {
+	 video: true // or pass HINTS
+     };
+
+     if (navigator.mediaDevices.getDisplayMedia) {
+	 navigator.mediaDevices.getDisplayMedia(displayMediaStreamConstraints).then(success).catch(error);
+     } else {
+	 navigator.getDisplayMedia(displayMediaStreamConstraints).then(success).catch(error);
+     }
+    </script>
+  </body>
+</html>
