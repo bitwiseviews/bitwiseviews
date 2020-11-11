@@ -1,25 +1,23 @@
 # About
 
-Software Projects, Documents, Analysis that help one to transition
-from minimal understanding to expert level users.
-All above artefacts to be minimal, concise but comprehensive.
-Minimal in terms of libraries used which in turn implies lower knowledge barrier required
-for beginners.
-Concise in explaining or suggesting alternatives.
-Comprehensive for those who already have or manage to get a clear idea via using above.
+Software Projects, Documentation, Analyses that are **minimal**, **concise** but **comprehensive**.
+- Minimal for clarity, usability, ease of understanding.
+- Concise in explanations where required.
+- Comprehensive for coverage of all aspects a tool, documentation or analysis addresses.
 
 Primary focus is on Software Tools for Web Development.
 
-In particular, focus will be on html5, css, javascript languages.
+In particular, focus will be on using only html5, css, vanillah JS languages as much as possible.
 
 
 ## Ikonizer
 
 Manipulating svg sprites for creating icons
-- [Ikonizer](https://bitwiseviews.github.io/ikonizer/spriteEditor.html)
 
-For manipulating svg sprites.
 - See [Ikonizer](https://bitwiseviews.github.io/ikonizer)
+- Start [spriteEditor](https://bitwiseviews.github.io/ikonizer/spriteEditor.html)
+
+
 <!-- ## WebRTC -->
 
 
