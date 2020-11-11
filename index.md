@@ -1,11 +1,34 @@
-## Bitwise Views
+# About
 
-Coming Soon ... 
+Software Projects, Documents, Analysis that help one to transition
+from minimal understanding to expert level users.
+All above artefacts to be minimal, concise but comprehensive.
+Minimal in terms of libraries used which in turn implies lower knowledge barrier required
+for beginners.
+Concise in explaining or suggesting alternatives.
+Comprehensive for those who already have or manage to get a clear idea via using above.
 
-## WebRTC
+Primary focus is on Software Tools for Web Development.
+
+In particular, focus will be on html5, css, javascript languages.
+
+
+## Ikonizer
+
+Manipulating svg sprites for creating icons
+- [Ikonizer](https://bitwiseviews.github.io/ikonizer/spriteEditor.html)
+
+For manipulating svg sprites.
+- See [Ikonizer](https://bitwiseviews.github.io/ikonizer)
+<!-- ## WebRTC -->
 
 
 <!---
+
+# About
+
+Software, Document, Analyze Projects with bare essentials.
+
 [Independent Client](https://bitwiseviews.github.io/webrtc-js-app/localClient/room.html) for testing purposes.
 
 You can use the [editor on GitHub](https://github.com/bitwiseviews/bitwiseviews/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
