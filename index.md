@@ -1,18 +1,18 @@
 # About
 
 Software Projects, Documentation, Analyses that are **minimal**, **concise** but **comprehensive**.
-- Minimal for clarity, usability, ease of understanding.
-- Concise in explanations where required.
-- Comprehensive for coverage of all aspects a tool, documentation or analysis addresses.
+- Minimal with respect to technology stack.
+- Concise in explanations, understanding where applicable.
+- Comprehensive to cover various aspects of a tool, documentation or analysis.
 
 Primary focus is on Software Tools for Web Development.
 
-In particular, focus will be on using only html5, css, vanillah JS languages as much as possible.
+In particular, focus will be on using only html5, css, vanillah JS as much as possible.
 
 
 ## Ikonizer
 
-Manipulating svg sprites for creating icons
+Manages svg sprites for customizing / creating icon sets ...
 
 - See [Ikonizer](https://bitwiseviews.github.io/ikonizer)
 - Start [spriteEditor](https://bitwiseviews.github.io/ikonizer/spriteEditor.html)
