@@ -7,7 +7,7 @@ Software Projects, Documentation, Analyses that are **minimal**, **concise** but
 
 Primary focus is on Software Tools for Web Development.
 
-In particular, focus will be on using only html5, css, vanillah JS as much as possible.
+In particular, focus will be on using only html5, css, vanilla JS as much as possible.
 
 
 ## Ikonizer
