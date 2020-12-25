@@ -17,6 +17,9 @@ Manages svg sprites for customizing / creating icon sets ...
 - See [Ikonizer](https://bitwiseviews.github.io/ikonizer)
 - Start [spriteEditor](https://bitwiseviews.github.io/ikonizer/spriteEditor.html)
 
+## About Me
+
+- My [Github Page](https://abdullah85.github.io/)
 
 <!-- ## WebRTC -->
 
